@@ -43,10 +43,10 @@
     "condition": "ALWAYS",
 
     "values": [
-      { "value": "ARMOR_BASH", "add": 3 },
-      { "value": "ARMOR_CUT", "add": 3 },
-      { "value": "ARMOR_BULLET", "add": 3 },
-      { "value": "ARMOR_STAB", "add": 3 }
+      { "value": "ARMOR_BASH", "add": -3 },
+      { "value": "ARMOR_CUT", "add": -3 },
+      { "value": "ARMOR_BULLET", "add": -3 },
+      { "value": "ARMOR_STAB", "add": -3 }
     ]
   },
   {
