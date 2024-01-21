@@ -1,0 +1,201 @@
+[
+  {
+    "id": "card_diamonds_ace_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> ace of diamonds (worn)",
+      "str_pl": "<color_red>♦</color> aces of diamonds (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_ATTACK_NOISE_MINOR" }]
+    }
+  },
+  {
+    "id": "card_diamonds_2_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 2 of diamonds (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_MOVE_COST_MINOR" }]
+    }
+  },
+  {
+    "id": "card_diamonds_3_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 3 of diamonds (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_DISPERSION_MINOR" }]
+    }
+  },
+  {
+    "id": "card_diamonds_4_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 4 of diamonds (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_FOOTSTEP_NOISE_MINOR" }]
+    }
+  },
+  {
+    "id": "card_diamonds_5_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 5 of diamonds (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_RANGE_MINOR" }]
+    }
+  },
+  {
+    "id": "card_diamonds_6_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 6 of diamonds (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_RECOIL_MODIFIER_MINOR" }]
+    }
+  },
+  {
+    "id": "card_diamonds_7_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 7 of diamonds (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_DODGE_MINOR" }]
+    }
+  },
+  {
+    "id": "card_diamonds_8_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 8 of diamonds (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_AVOID_DAMAGE_MINOR" }]
+    }
+  },
+  {
+    "id": "card_diamonds_9_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 9 of diamonds (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_STAMINA_REGEN_MINOR" }]
+    }
+  },
+  {
+    "id": "card_diamonds_10_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 10 of diamonds (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_RANGED_DAMAGE_MINOR" }]
+    }
+  },
+  {
+    "id": "card_diamonds_jack_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> jack of diamonds (worn)",
+      "str_pl": "<color_red>♦</color> jacks of diamonds (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_ATTACK_SPEED_MINOR" }]
+    }
+  },
+  {
+    "id": "card_diamonds_queen_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> queen of diamonds (worn)",
+      "str_pl": "<color_red>♦</color> queens of diamonds (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_PAIN_REDUCTION_MINOR" }]
+    }
+  },
+  {
+    "id": "card_diamonds_king_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> king of diamonds (worn)",
+      "str_pl": "<color_red>♦</color> kings of diamonds (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_DEXTERITY_MINOR" }]
+    }
+  }
+]

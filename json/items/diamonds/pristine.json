@@ -1,0 +1,201 @@
+[
+  {
+    "id": "card_diamonds_ace",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> ace of diamonds ",
+      "str_pl": "<color_red>♦</color> aces of diamonds "
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_ATTACK_NOISE" }]
+    }
+  },
+  {
+    "id": "card_diamonds_2",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 2 of diamonds "
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_MOVE_COST" }]
+    }
+  },
+  {
+    "id": "card_diamonds_3",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 3 of diamonds "
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_DISPERSION" }]
+    }
+  },
+  {
+    "id": "card_diamonds_4",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 4 of diamonds "
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_FOOTSTEP_NOISE" }]
+    }
+  },
+  {
+    "id": "card_diamonds_5",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 5 of diamonds "
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_RANGE" }]
+    }
+  },
+  {
+    "id": "card_diamonds_6",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 6 of diamonds "
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_RECOIL_MODIFIER" }]
+    }
+  },
+  {
+    "id": "card_diamonds_7",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 7 of diamonds "
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_DODGE" }]
+    }
+  },
+  {
+    "id": "card_diamonds_8",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 8 of diamonds "
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_AVOID_DAMAGE" }]
+    }
+  },
+  {
+    "id": "card_diamonds_9",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 9 of diamonds "
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_STAMINA_REGEN" }]
+    }
+  },
+  {
+    "id": "card_diamonds_10",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> 10 of diamonds "
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_RANGED_DAMAGE" }]
+    }
+  },
+  {
+    "id": "card_diamonds_jack",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> jack of diamonds ",
+      "str_pl": "<color_red>♦</color> jacks of diamonds "
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_ATTACK_SPEED" }]
+    }
+  },
+  {
+    "id": "card_diamonds_queen",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> queen of diamonds ",
+      "str_pl": "<color_red>♦</color> queens of diamonds "
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_PAIN_REDUCTION" }]
+    }
+  },
+  {
+    "id": "card_diamonds_king",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_red>♦</color> king of diamonds ",
+      "str_pl": "<color_red>♦</color> kings of diamonds "
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_DEXTERITY" }]
+    }
+  }
+]
