@@ -12,7 +12,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_ATTACK_NOISE_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_MOVE_COST_MINOR" }]
     }
   },
   {
@@ -27,7 +27,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_MOVE_COST_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_DISPERSION_MINOR" }]
     }
   },
   {
@@ -42,7 +42,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_DISPERSION_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_FOOTSTEP_NOISE_MINOR" }]
     }
   },
   {
@@ -57,7 +57,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_FOOTSTEP_NOISE_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_STAB_MINOR" }]
     }
   },
   {
@@ -72,7 +72,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_RANGE_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_RECOIL_MODIFIER_MINOR" }]
     }
   },
   {
@@ -87,7 +87,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_RECOIL_MODIFIER_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_SPEED_BONUS_MINOR" }]
     }
   },
   {
@@ -179,7 +179,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_PAIN_REDUCTION_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_RANGE_MINOR" }]
     }
   },
   {

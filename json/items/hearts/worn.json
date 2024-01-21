@@ -69,10 +69,10 @@
     "name": {
       "str": "<color_red>♥</color> 5 of hearts (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of an ancient muscle cuirass.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of an ancient muscle cuirass with a mace laid over it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_BASH_MINOR" }]
     }
   },
   {
@@ -164,10 +164,10 @@
       "str": "<color_red>♥</color> jack of hearts (worn)",
       "str_pl": "<color_red>♥</color> jacks of hearts (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a naked mercury thermometer, with minus at the top and plus at the bottom next to it, even though its bottom is clearly pointing down.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a shield repelling three thick lines away.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_CLIMATE_CONTROL_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_BLOCK_DAMAGE_MINOR" }]
     }
   },
   {
@@ -180,10 +180,10 @@
       "str": "<color_red>♥</color> queen of hearts (worn)",
       "str_pl": "<color_red>♥</color> queens of hearts (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a piece of heavy armor seemingly sending a wave off one of its shoulders.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a muscle cuirass with a biohazard symbol laid over it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_BLOCK_DAMAGE_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_BIO_MINOR" }]
     }
   },
   {

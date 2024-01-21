@@ -27,7 +27,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_HUNGER_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EASE_OF_SLEEP_MINOR" }]
     }
   },
   {
@@ -42,7 +42,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EASE_OF_SLEEP_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_SKILL_RUST_MINOR" }]
     }
   },
   {
@@ -57,7 +57,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_SKILL_RUST_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_LEARNING_FOCUS_MINOR" }]
     }
   },
   {
@@ -72,7 +72,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_LEARNING_FOCUS_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_READING_EXP_MINOR" }]
     }
   },
   {
@@ -87,7 +87,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_READING_EXP_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_CHARISMA_MINOR" }]
     }
   },
   {
@@ -102,7 +102,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_CHARISMA_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_CUT_MINOR" }]
     }
   },
   {
@@ -117,7 +117,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_ARMOR_ELEMENTS_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_ACID_MINOR" }]
     }
   },
   {
@@ -132,7 +132,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_ARMOR_HAZARDS_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_PERSUASION_MINOR" }]
     }
   },
   {
@@ -147,7 +147,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_THIRST_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_FRIENDLY_FIRE_MINOR" }]
     }
   },
   {
@@ -163,7 +163,7 @@
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_FRIENDLY_FIRE_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_ELECTRIC_MINOR" }]
     }
   },
   {

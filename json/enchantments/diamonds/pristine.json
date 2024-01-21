@@ -1,14 +1,5 @@
 [
   {
-    "id": "CARD_ENCHANTMENT_ATTACK_NOISE",
-    "type": "enchantment",
-
-    "has": "HELD",
-    "condition": "ALWAYS",
-
-    "values": [{ "value": "ATTACK_NOISE", "multiply": -0.1 }]
-  },
-  {
     "id": "CARD_ENCHANTMENT_MOVE_COST",
     "type": "enchantment",
 
@@ -36,13 +27,13 @@
     "values": [{ "value": "FOOTSTEP_NOISE", "multiply": -0.1 }]
   },
   {
-    "id": "CARD_ENCHANTMENT_EXTRA_RANGE",
+    "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_STAB",
     "type": "enchantment",
 
     "has": "HELD",
     "condition": "ALWAYS",
 
-    "values": [{ "value": "RANGE", "add": 4 }]
+    "values": [{ "value": "ARMOR_STAB", "add": -10 }]
   },
   {
     "id": "CARD_ENCHANTMENT_RECOIL_MODIFIER",
@@ -52,6 +43,15 @@
     "condition": "ALWAYS",
 
     "values": [{ "value": "RECOIL_MODIFIER", "multiply": -0.1 }]
+  },
+  {
+    "id": "CARD_ENCHANTMENT_SPEED_BONUS",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [{ "value": "SPEED", "multiply": 0.1 }]
   },
   {
     "id": "CARD_ENCHANTMENT_EXTRA_DODGE",
@@ -99,13 +99,13 @@
     "values": [{ "value": "ATTACK_SPEED", "multiply": 0.1 }]
   },
   {
-    "id": "CARD_ENCHANTMENT_PAIN_REDUCTION",
+    "id": "CARD_ENCHANTMENT_EXTRA_RANGE",
     "type": "enchantment",
 
     "has": "HELD",
     "condition": "ALWAYS",
 
-    "values": [{ "value": "PAIN", "multiply": -0.2 }]
+    "values": [{ "value": "RANGE", "add": 6 }]
   },
   {
     "id": "CARD_ENCHANTMENT_DEXTERITY",

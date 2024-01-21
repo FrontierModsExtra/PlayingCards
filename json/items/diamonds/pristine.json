@@ -6,13 +6,13 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> ace of diamonds ",
-      "str_pl": "<color_red>♦</color> aces of diamonds "
+      "str": "<color_red>♦</color> ace of diamonds",
+      "str_pl": "<color_red>♦</color> aces of diamonds"
     },
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_ATTACK_NOISE" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_MOVE_COST" }]
     }
   },
   {
@@ -22,12 +22,12 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 2 of diamonds "
+      "str": "<color_red>♦</color> 2 of diamonds"
     },
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_MOVE_COST" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_DISPERSION" }]
     }
   },
   {
@@ -37,12 +37,12 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 3 of diamonds "
+      "str": "<color_red>♦</color> 3 of diamonds"
     },
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_DISPERSION" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_FOOTSTEP_NOISE" }]
     }
   },
   {
@@ -52,12 +52,12 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 4 of diamonds "
+      "str": "<color_red>♦</color> 4 of diamonds"
     },
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_FOOTSTEP_NOISE" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_STAB" }]
     }
   },
   {
@@ -67,12 +67,12 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 5 of diamonds "
+      "str": "<color_red>♦</color> 5 of diamonds"
     },
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_RANGE" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_RECOIL_MODIFIER" }]
     }
   },
   {
@@ -82,12 +82,12 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 6 of diamonds "
+      "str": "<color_red>♦</color> 6 of diamonds"
     },
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_RECOIL_MODIFIER" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_SPEED_BONUS" }]
     }
   },
   {
@@ -97,7 +97,7 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 7 of diamonds "
+      "str": "<color_red>♦</color> 7 of diamonds"
     },
     "description": "",
 
@@ -112,7 +112,7 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 8 of diamonds "
+      "str": "<color_red>♦</color> 8 of diamonds"
     },
     "description": "",
 
@@ -127,7 +127,7 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 9 of diamonds "
+      "str": "<color_red>♦</color> 9 of diamonds"
     },
     "description": "",
 
@@ -142,7 +142,7 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 10 of diamonds "
+      "str": "<color_red>♦</color> 10 of diamonds"
     },
     "description": "",
 
@@ -157,8 +157,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> jack of diamonds ",
-      "str_pl": "<color_red>♦</color> jacks of diamonds "
+      "str": "<color_red>♦</color> jack of diamonds",
+      "str_pl": "<color_red>♦</color> jacks of diamonds"
     },
     "description": "",
 
@@ -173,13 +173,13 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> queen of diamonds ",
-      "str_pl": "<color_red>♦</color> queens of diamonds "
+      "str": "<color_red>♦</color> queen of diamonds",
+      "str_pl": "<color_red>♦</color> queens of diamonds"
     },
     "description": "",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_PAIN_REDUCTION" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_RANGE" }]
     }
   },
   {
@@ -189,8 +189,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> king of diamonds ",
-      "str_pl": "<color_red>♦</color> kings of diamonds "
+      "str": "<color_red>♦</color> king of diamonds",
+      "str_pl": "<color_red>♦</color> kings of diamonds"
     },
     "description": "",
 

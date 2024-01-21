@@ -36,18 +36,13 @@
     "values": [{ "value": "BONUS_BLOCK", "add": 2 }]
   },
   {
-    "id": "CARD_ENCHANTMENT_EXTRA_ARMOR",
+    "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_BASH",
     "type": "enchantment",
 
     "has": "HELD",
     "condition": "ALWAYS",
 
-    "values": [
-      { "value": "ARMOR_BASH", "add": -6 },
-      { "value": "ARMOR_CUT", "add": -6 },
-      { "value": "ARMOR_BULLET", "add": -6 },
-      { "value": "ARMOR_STAB", "add": -6 }
-    ]
+    "values": [{ "value": "ARMOR_BASH", "add": -10 }]
   },
   {
     "id": "CARD_ENCHANTMENT_HP_REGEN",
@@ -104,16 +99,13 @@
     "values": [{ "value": "FORCEFIELD", "add": 0.1 }]
   },
   {
-    "id": "CARD_ENCHANTMENT_CLIMATE_CONTROL",
+    "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_BIO",
     "type": "enchantment",
 
     "has": "HELD",
     "condition": "ALWAYS",
 
-    "values": [
-      { "value": "CLIMATE_CONTROL_HEAT", "add": 10 },
-      { "value": "CLIMATE_CONTROL_CHILL", "add": 10 }
-    ]
+    "values": [{ "value": "ARMOR_BIO", "add": -10 }]
   },
   {
     "id": "CARD_ENCHANTMENT_STRENGTH",
