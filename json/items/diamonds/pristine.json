@@ -9,7 +9,7 @@
       "str": "<color_red>♦</color> ace of diamonds",
       "str_pl": "<color_red>♦</color> aces of diamonds"
     },
-    "description": "",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of person with a backpack walking, and next to it, a double-chevron pointing to the right.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_MOVE_COST" }]
@@ -24,7 +24,7 @@
     "name": {
       "str": "<color_red>♦</color> 2 of diamonds"
     },
-    "description": "",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of a target-practice sheet with a very tight group of shots.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_DISPERSION" }]
@@ -39,7 +39,7 @@
     "name": {
       "str": "<color_red>♦</color> 3 of diamonds"
     },
-    "description": "",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of a boot about to stop on the invisible ground, and a symbol of a speaker emitting little sound.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_FOOTSTEP_NOISE" }]
@@ -54,7 +54,7 @@
     "name": {
       "str": "<color_red>♦</color> 4 of diamonds"
     },
-    "description": "",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a muscle cuirass with a pike laid over it.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_STAB" }]
@@ -69,7 +69,7 @@
     "name": {
       "str": "<color_red>♦</color> 5 of diamonds"
     },
-    "description": "",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of an assault rifle leaving a trail as its muzzle rises, and next to it, an arrow pointing down.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_RECOIL_MODIFIER" }]
@@ -84,7 +84,7 @@
     "name": {
       "str": "<color_red>♦</color> 6 of diamonds"
     },
-    "description": "",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of a person sprinting, and next to it, a double-chevron pointing right.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_SPEED_BONUS" }]
@@ -99,7 +99,7 @@
     "name": {
       "str": "<color_red>♦</color> 7 of diamonds"
     },
-    "description": "",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of a martial fighter with their upper body recoiled backwards, as if in avoidance.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_DODGE" }]
@@ -114,7 +114,7 @@
     "name": {
       "str": "<color_red>♦</color> 8 of diamonds"
     },
-    "description": "",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a human upper body, with bladed and blunt weapons flying over their head.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_AVOID_DAMAGE" }]
@@ -129,7 +129,7 @@
     "name": {
       "str": "<color_red>♦</color> 9 of diamonds"
     },
-    "description": "",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of battery at a low charge, with an arrow pointing upwards in a corner next to it.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_STAMINA_REGEN" }]
@@ -144,7 +144,7 @@
     "name": {
       "str": "<color_red>♦</color> 10 of diamonds"
     },
-    "description": "",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of an assault rifle with two pluses in a corner next to it.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_RANGED_DAMAGE" }]
@@ -160,7 +160,7 @@
       "str": "<color_red>♦</color> jack of diamonds",
       "str_pl": "<color_red>♦</color> jacks of diamonds"
     },
-    "description": "",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a sword leaving a trail as it moves to the right.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_ATTACK_SPEED" }]
@@ -176,7 +176,7 @@
       "str": "<color_red>♦</color> queen of diamonds",
       "str_pl": "<color_red>♦</color> queens of diamonds"
     },
-    "description": "",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of an assault rifle with a pair of binoculars in the corner next to it.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_RANGE" }]
@@ -192,7 +192,7 @@
       "str": "<color_red>♦</color> king of diamonds",
       "str_pl": "<color_red>♦</color> kings of diamonds"
     },
-    "description": "",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of a person mid-back somersault.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_DEXTERITY" }]
