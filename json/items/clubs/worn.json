@@ -1,0 +1,201 @@
+[
+  {
+    "id": "card_clubs_ace_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> ace of clubs (worn)",
+      "str_pl": "<color_blue>♣</color> aces of clubs (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_PAIN_REMOVAL_MINOR" }]
+    }
+  },
+  {
+    "id": "card_clubs_2_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 2 of clubs (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_HUNGER_MINOR" }]
+    }
+  },
+  {
+    "id": "card_clubs_3_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 3 of clubs (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EASE_OF_SLEEP_MINOR" }]
+    }
+  },
+  {
+    "id": "card_clubs_4_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 4 of clubs (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_SKILL_RUST_MINOR" }]
+    }
+  },
+  {
+    "id": "card_clubs_5_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 5 of clubs (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_LEARNING_FOCUS_MINOR" }]
+    }
+  },
+  {
+    "id": "card_clubs_6_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 6 of clubs (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_READING_EXP_MINOR" }]
+    }
+  },
+  {
+    "id": "card_clubs_7_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 7 of clubs (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_CHARISMA_MINOR" }]
+    }
+  },
+  {
+    "id": "card_clubs_8_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 8 of clubs (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_ARMOR_ELEMENTS_MINOR" }]
+    }
+  },
+  {
+    "id": "card_clubs_9_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 9 of clubs (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_ARMOR_HAZARDS_MINOR" }]
+    }
+  },
+  {
+    "id": "card_clubs_10_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 10 of clubs (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_THIRST_MINOR" }]
+    }
+  },
+  {
+    "id": "card_clubs_jack_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> jack of clubs (worn)",
+      "str_pl": "<color_blue>♣</color> jacks of clubs (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_FRIENDLY_FIRE_MINOR" }]
+    }
+  },
+  {
+    "id": "card_clubs_queen_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> queen of clubs (worn)",
+      "str_pl": "<color_blue>♣</color> queens of clubs (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_HEALTH_MINOR" }]
+    }
+  },
+  {
+    "id": "card_clubs_king_worn",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> king of clubs (worn)",
+      "str_pl": "<color_blue>♣</color> kings of clubs (worn)"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_INTELLIGENCE_MINOR" }]
+    }
+  }
+]

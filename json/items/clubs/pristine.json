@@ -1,0 +1,201 @@
+[
+  {
+    "id": "card_clubs_ace",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> ace of clubs",
+      "str_pl": "<color_blue>♣</color> aces of clubs"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_PAIN_REMOVAL" }]
+    }
+  },
+  {
+    "id": "card_clubs_2",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 2 of clubs"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_HUNGER" }]
+    }
+  },
+  {
+    "id": "card_clubs_3",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 3 of clubs"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EASE_OF_SLEEP" }]
+    }
+  },
+  {
+    "id": "card_clubs_4",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 4 of clubs"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_SKILL_RUST" }]
+    }
+  },
+  {
+    "id": "card_clubs_5",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 5 of clubs"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_LEARNING_FOCUS" }]
+    }
+  },
+  {
+    "id": "card_clubs_6",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 6 of clubs"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_READING_EXP" }]
+    }
+  },
+  {
+    "id": "card_clubs_7",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 7 of clubs"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_CHARISMA" }]
+    }
+  },
+  {
+    "id": "card_clubs_8",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 8 of clubs"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_ARMOR_ELEMENTS" }]
+    }
+  },
+  {
+    "id": "card_clubs_9",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 9 of clubs"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_ARMOR_HAZARDS" }]
+    }
+  },
+  {
+    "id": "card_clubs_10",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> 10 of clubs"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_THIRST" }]
+    }
+  },
+  {
+    "id": "card_clubs_jack",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> jack of clubs",
+      "str_pl": "<color_blue>♣</color> jacks of clubs"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_FRIENDLY_FIRE" }]
+    }
+  },
+  {
+    "id": "card_clubs_queen",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> queen of clubs",
+      "str_pl": "<color_blue>♣</color> queens of clubs"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_HEALTH" }]
+    }
+  },
+  {
+    "id": "card_clubs_king",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> king of clubs",
+      "str_pl": "<color_blue>♣</color> kings of clubs"
+    },
+    "description": "",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_INTELLIGENCE" }]
+    }
+  }
+]
