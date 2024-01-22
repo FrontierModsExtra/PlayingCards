@@ -27,7 +27,7 @@
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's picture of a running person, and next to them, a small arrow pointing up and a plus sign.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_STAMINA_REGEN_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_MAX_STAMINA_MINOR" }]
     }
   },
   {

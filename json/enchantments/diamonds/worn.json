@@ -72,13 +72,13 @@
     "values": [{ "value": "EVASION", "add": 0.05 }]
   },
   {
-    "id": "CARD_ENCHANTMENT_STAMINA_REGEN_MINOR",
+    "id": "CARD_ENCHANTMENT_MAX_STAMINA_MINOR",
     "type": "enchantment",
 
     "has": "HELD",
     "condition": "ALWAYS",
 
-    "values": [{ "value": "REGEN_STAMINA", "multiply": 0.05 }]
+    "values": [{ "value": "MAX_STAMINA", "multiply": 0.05 }]
   },
   {
     "id": "CARD_ENCHANTMENT_RANGED_DAMAGE_MINOR",
