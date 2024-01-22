@@ -9,7 +9,7 @@
       "str": "<color_red>♦</color> ace of diamonds",
       "str_pl": "<color_red>♦</color> aces of diamonds"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of person with a backpack walking, and next to it, a double-chevron pointing to the right.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suit or the capital A in the center of the face, there's a picture of person with a backpack walking, and next to it, a double-chevron pointing to the right.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_MOVE_COST" }]

@@ -9,7 +9,7 @@
       "str": "<color_blue>♣</color> ace of clubs (worn)",
       "str_pl": "<color_blue>♣</color> aces of clubs (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a head struck by a simplistic depiction of a lightning, with an arrow pointing down in a corner next to the scene.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suit or the capital A in the center of the face, there's a pictogram of a head struck by a simplistic depiction of a lightning, with an arrow pointing down in a corner next to the scene.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_PAIN_REMOVAL_MINOR" }]
