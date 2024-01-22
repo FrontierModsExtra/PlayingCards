@@ -1,0 +1,125 @@
+[
+  {
+    "id": "CARD_ENCHANTMENT_COMBAT_CATCHUP",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [{ "value": "COMBAT_CATCHUP", "multiply": 0.66 }]
+  },
+  {
+    "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_BULLET",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [{ "value": "ARMOR_BULLET", "add": -10 }]
+  },
+  {
+    "id": "CARD_ENCHANTMENT_SIGHT_ELECTRONIC",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [{ "value": "SIGHT_RANGE_ELECTRIC", "add": 14 }]
+  },
+  {
+    "id": "CARD_ENCHANTMENT_ATTACK_NOISE",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [{ "value": "ATTACK_NOISE", "multiply": -0.1 }]
+  },
+  {
+    "id": "CARD_ENCHANTMENT_PAIN_REDUCTION",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [{ "value": "PAIN", "multiply": -0.2 }]
+  },
+  {
+    "id": "CARD_ENCHANTMENT_SIGHT_NETHER",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [{ "value": "SIGHT_RANGE_NETHER", "add": 14 }]
+  },
+  {
+    "id": "CARD_ENCHANTMENT_HUNGER",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [{ "value": "HUNGER", "multiply": -0.15 }]
+  },
+  {
+    "id": "CARD_ENCHANTMENT_SIGHT_MINDS",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [{ "value": "SIGHT_RANGE_MINDS", "add": 14 }]
+  },
+  {
+    "id": "CARD_ENCHANTMENT_RESISTANCE_COLD",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [
+      { "value": "ARMOR_COLD", "add": -10 },
+      { "value": "CLIMATE_CONTROL_HEAT", "add": 10 }
+    ]
+  },
+  {
+    "id": "CARD_ENCHANTMENT_RESISTANCE_HEAT",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [
+      { "value": "ARMOR_HEAT", "add": -10 },
+      { "value": "CLIMATE_CONTROL_CHILL", "add": 10 }
+    ]
+  },
+  {
+    "id": "CARD_ENCHANTMENT_THIRST",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [{ "value": "THIRST", "multiply": -0.15 }]
+  },
+  {
+    "id": "CARD_ENCHANTMENT_SIGHT_MOTION",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [{ "value": "MOTION_VISION_RANGE", "add": 14 }]
+  },
+  {
+    "id": "CARD_ENCHANTMENT_PERCEPTION",
+    "type": "enchantment",
+
+    "has": "HELD",
+    "condition": "ALWAYS",
+
+    "values": [{ "value": "PERCEPTION", "add": 2 }]
+  }
+]
