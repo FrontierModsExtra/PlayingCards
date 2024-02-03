@@ -3,7 +3,7 @@
     "id": "cards",
     "type": "ITEM_CATEGORY",
 
-    "name": { "str": "CARDS" },
+    "name": { "str": "Cards" },
 
     "//sort_rank": "same level as BOOKS",
     "sort_rank": -15
