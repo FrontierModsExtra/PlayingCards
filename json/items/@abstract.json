@@ -46,5 +46,13 @@
       "plus, it's literal magic"
     ],
     "price_postapoc": "10 USD"
+  },
+  {
+    "abstract": "card_playing_enchanted_blue",
+    "copy-from": "card_playing_enchanted",
+    "type": "GENERIC",
+    "category": "other",
+
+    "color": "blue"
   }
 ]

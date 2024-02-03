@@ -1,7 +1,7 @@
 [
   {
     "id": "card_clubs_ace_worn",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -17,7 +17,7 @@
   },
   {
     "id": "card_clubs_2_worn",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -33,7 +33,7 @@
   },
   {
     "id": "card_clubs_3_worn",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -48,7 +48,7 @@
   },
   {
     "id": "card_clubs_4_worn",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -64,7 +64,7 @@
   },
   {
     "id": "card_clubs_5_worn",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -80,7 +80,7 @@
   },
   {
     "id": "card_clubs_6_worn",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -96,7 +96,7 @@
   },
   {
     "id": "card_clubs_7_worn",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -112,7 +112,7 @@
   },
   {
     "id": "card_clubs_8_worn",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -128,7 +128,7 @@
   },
   {
     "id": "card_clubs_9_worn",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -144,7 +144,7 @@
   },
   {
     "id": "card_clubs_10_worn",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -160,7 +160,7 @@
   },
   {
     "id": "card_clubs_jack_worn",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -178,7 +178,7 @@
   },
   {
     "id": "card_clubs_queen_worn",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -194,7 +194,7 @@
   },
   {
     "id": "card_clubs_king_worn",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 

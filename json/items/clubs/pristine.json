@@ -1,7 +1,7 @@
 [
   {
     "id": "card_clubs_ace",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -17,7 +17,7 @@
   },
   {
     "id": "card_clubs_2",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -33,7 +33,7 @@
   },
   {
     "id": "card_clubs_3",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -48,7 +48,7 @@
   },
   {
     "id": "card_clubs_4",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -64,7 +64,7 @@
   },
   {
     "id": "card_clubs_5",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -80,7 +80,7 @@
   },
   {
     "id": "card_clubs_6",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -96,7 +96,7 @@
   },
   {
     "id": "card_clubs_7",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -112,7 +112,7 @@
   },
   {
     "id": "card_clubs_8",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -128,7 +128,7 @@
   },
   {
     "id": "card_clubs_9",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -144,7 +144,7 @@
   },
   {
     "id": "card_clubs_10",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -160,7 +160,7 @@
   },
   {
     "id": "card_clubs_jack",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -176,7 +176,7 @@
   },
   {
     "id": "card_clubs_queen",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
@@ -192,7 +192,7 @@
   },
   {
     "id": "card_clubs_king",
-    "copy-from": "card_playing_enchanted",
+    "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
     "category": "cards",
 
