@@ -15,7 +15,8 @@
             { "group": "cards_enchanted_diamonds_pristine_high", "prob": 1 },
             { "group": "cards_enchanted_spades_pristine_mid", "prob": 1 },
             { "group": "cards_enchanted_spades_pristine_high", "prob": 1 }
-          ]
+          ],
+          "prob": 1
         }
       ]
     }

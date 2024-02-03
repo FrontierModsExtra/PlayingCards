@@ -27,7 +27,8 @@
               "group": "cards_enchanted_suits_pristine_any",
               "prob": 1
             }
-          ]
+          ],
+          "prob": 1
         }
       ]
     }

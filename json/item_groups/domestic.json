@@ -12,7 +12,8 @@
             { "group": "cards_enchanted_suits_worn_low", "prob": 4 },
             { "group": "cards_enchanted_suits_worn_mid", "prob": 2 },
             { "group": "cards_enchanted_suits_pristine_low", "prob": 1 }
-          ]
+          ],
+          "prob": 1
         }
       ]
     }
@@ -29,7 +30,8 @@
           "distribution": [
             { "group": "cards_enchanted_suits_worn_low", "prob": 2 },
             { "group": "cards_enchanted_suits_worn_mid", "prob": 1 }
-          ]
+          ],
+          "prob": 1
         }
       ]
     }
@@ -48,7 +50,8 @@
             { "group": "cards_enchanted_suits_worn_mid", "prob": 3 },
             { "group": "cards_enchanted_suits_pristine_low", "prob": 2 },
             { "group": "cards_enchanted_suits_pristine_mid", "prob": 1 }
-          ]
+          ],
+          "prob": 1
         }
       ]
     }
@@ -65,7 +68,8 @@
           "distribution": [
             { "group": "cards_enchanted_suits_worn_low", "prob": 2 },
             { "group": "cards_enchanted_suits_pristine_low", "prob": 1 }
-          ]
+          ],
+          "prob": 1
         }
       ]
     }
@@ -92,7 +96,8 @@
           "distribution": [
             { "group": "cards_enchanted_suits_worn_any", "prob": 1 },
             { "group": "cards_enchanted_suits_pristine_any", "prob": 1 }
-          ]
+          ],
+          "prob": 1
         }
       ]
     }
