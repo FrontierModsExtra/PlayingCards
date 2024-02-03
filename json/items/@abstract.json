@@ -53,6 +53,10 @@
     "type": "GENERIC",
     "category": "other",
 
+    "name": {
+      "str": "enchanted playing card (blue)"
+    },
+
     "color": "blue"
   }
 ]
