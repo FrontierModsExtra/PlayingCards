@@ -22,7 +22,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 2 of diamonds (worn)"
+      "str": "<color_red>♦</color> 2 of diamonds (worn)",
+      "str_pl": "<color_red>♦</color> 2s of diamonds (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of a target-practice sheet with a very tight group of shots.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -37,7 +38,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 3 of diamonds (worn)"
+      "str": "<color_red>♦</color> 3 of diamonds (worn)",
+      "str_pl": "<color_red>♦</color> 3s of diamonds (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of a boot about to stop on the invisible ground, and a symbol of a speaker emitting little sound.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -52,7 +54,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 4 of diamonds (worn)"
+      "str": "<color_red>♦</color> 4 of diamonds (worn)",
+      "str_pl": "<color_red>♦</color> 4s of diamonds (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a muscle cuirass with a pike laid over it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -67,7 +70,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 5 of diamonds (worn)"
+      "str": "<color_red>♦</color> 5 of diamonds (worn)",
+      "str_pl": "<color_red>♦</color> 5s of diamonds (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of an assault rifle leaving a trail as its muzzle rises, and next to it, an arrow pointing down.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -82,7 +86,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 6 of diamonds (worn)"
+      "str": "<color_red>♦</color> 6 of diamonds (worn)",
+      "str_pl": "<color_red>♦</color> 6s of diamonds (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of a person sprinting, and next to it, a double-chevron pointing right.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -97,7 +102,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 7 of diamonds (worn)"
+      "str": "<color_red>♦</color> 7 of diamonds (worn)",
+      "str_pl": "<color_red>♦</color> 7s of diamonds (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of a martial fighter with their upper body recoiled backwards, as if in avoidance.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -112,7 +118,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 8 of diamonds (worn)"
+      "str": "<color_red>♦</color> 8 of diamonds (worn)",
+      "str_pl": "<color_red>♦</color> 8s of diamonds (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a human upper body, with bladed and blunt weapons flying over their head.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -127,7 +134,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 9 of diamonds (worn)"
+      "str": "<color_red>♦</color> 9 of diamonds (worn)",
+      "str_pl": "<color_red>♦</color> 9s of diamonds (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of battery at a low charge, with an arrow pointing upwards in a corner next to it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -142,7 +150,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♦</color> 10 of diamonds (worn)"
+      "str": "<color_red>♦</color> 10 of diamonds (worn)",
+      "str_pl": "<color_red>♦</color> 10s of diamonds (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of an assault rifle with two pluses in a corner next to it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 

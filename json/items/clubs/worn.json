@@ -22,7 +22,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♣</color> 2 of clubs (worn)"
+      "str": "<color_blue>♣</color> 2 of clubs (worn)",
+      "str_pl": "<color_blue>♣</color> 2s of clubs (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a pillow with \"zZz\" over it and two pluses next to it in a corner.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -37,7 +38,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♣</color> 3 of clubs (worn)"
+      "str": "<color_blue>♣</color> 3 of clubs (worn)",
+      "str_pl": "<color_blue>♣</color> 3s of clubs (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a head with a large arrow pointing down laid over it, with a shield in a corner next to the scene.  This card is well-worn, slightly bent, with scrapes and small cuts.",
     "relic_data": {
@@ -51,7 +53,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♣</color> 4 of clubs (worn)"
+      "str": "<color_blue>♣</color> 4 of clubs (worn)",
+      "str_pl": "<color_blue>♣</color> 4s of clubs (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a head with an open book laid over it, with a magnifying glass in a corner next to the scene.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -66,7 +69,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♣</color> 5 of clubs (worn)"
+      "str": "<color_blue>♣</color> 5 of clubs (worn)",
+      "str_pl": "<color_blue>♣</color> 5s of clubs (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a head with an open book laid over it, with an arrow pointing up in a corner next to the scene.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -81,7 +85,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♣</color> 6 of clubs (worn)"
+      "str": "<color_blue>♣</color> 6 of clubs (worn)",
+      "str_pl": "<color_blue>♣</color> 6s of clubs (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of the lower half of a head, with a focus on the lips; a fist and a feather framing the head from the sides.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -96,7 +101,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♣</color> 7 of clubs (worn)"
+      "str": "<color_blue>♣</color> 7 of clubs (worn)",
+      "str_pl": "<color_blue>♣</color> 7s of clubs (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a muscle cuirass with a knife laid over it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -111,7 +117,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♣</color> 8 of clubs (worn)"
+      "str": "<color_blue>♣</color> 8 of clubs (worn)",
+      "str_pl": "<color_blue>♣</color> 8s of clubs (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a muscle cuirass with a large droplet laid over it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -126,7 +133,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♣</color> 9 of clubs (worn)"
+      "str": "<color_blue>♣</color> 9 of clubs (worn)",
+      "str_pl": "<color_blue>♣</color> 9s of clubs (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of the lower half of a head, with a focus on the lips; a handshake is below the chin.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -141,7 +149,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♣</color> 10 of clubs (worn)"
+      "str": "<color_blue>♣</color> 10 of clubs (worn)",
+      "str_pl": "<color_blue>♣</color> 10s of clubs (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of three humans; the one on the left is holding an assault rifle; the one on the right is holding a knife and charging left; and the one in the middle facing the knife wielder, with a shield behind their back, from where the bullets are coming.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 

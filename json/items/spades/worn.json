@@ -22,7 +22,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♠</color> 2 of spades (worn)"
+      "str": "<color_blue>♠</color> 2 of spades (worn)",
+      "str_pl": "<color_blue>♠</color> 2s of spades (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there is a pictogram of a head struck by a simplistic depiction of a lightning, with an shield next to the scene.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -37,7 +38,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♠</color> 3 of spades (worn)"
+      "str": "<color_blue>♠</color> 3 of spades (worn)",
+      "str_pl": "<color_blue>♠</color> 3s of spades (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there is a pictogram of a pair of binoculars, and an electronic chip next to it in a corner.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -52,7 +54,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♠</color> 4 of spades (worn)"
+      "str": "<color_blue>♠</color> 4 of spades (worn)",
+      "str_pl": "<color_blue>♠</color> 4s of spades (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there is a picture of a police baton leaving a trail as it arches down and to the right, with a symbol of a speaker emitting little noise next to it in a corner.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -67,7 +70,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♠</color> 5 of spades (worn)"
+      "str": "<color_blue>♠</color> 5 of spades (worn)",
+      "str_pl": "<color_blue>♠</color> 5s of spades (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there is a pictogram of a pair of binoculars, and a set of tendrils crawling out of a dark hole next to it in a corner.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -82,7 +86,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♠</color> 6 of spades (worn)"
+      "str": "<color_blue>♠</color> 6 of spades (worn)",
+      "str_pl": "<color_blue>♠</color> 6s of spades (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there is a pictogram of a stomach, with an arrow pointing down next to it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -97,7 +102,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♠</color> 7 of spades (worn)"
+      "str": "<color_blue>♠</color> 7 of spades (worn)",
+      "str_pl": "<color_blue>♠</color> 7s of spades (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there is a picture of a muscle cuirass and a pistol laid over it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -112,7 +118,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♠</color> 8 of spades (worn)"
+      "str": "<color_blue>♠</color> 8 of spades (worn)",
+      "str_pl": "<color_blue>♠</color> 8s of spades (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there is a pictogram of a pair of binoculars, and a brain next to it in a corner.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -127,7 +134,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♠</color> 9 of spades (worn)"
+      "str": "<color_blue>♠</color> 9 of spades (worn)",
+      "str_pl": "<color_blue>♠</color> 9s of spades (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there is a picture of a full-body environment suit and a snowflake laid over it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 
@@ -142,7 +150,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_blue>♠</color> 10 of spades (worn)"
+      "str": "<color_blue>♠</color> 10 of spades (worn)",
+      "str_pl": "<color_blue>♠</color> 10s of spades (worn)"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there is a picture of a full-body environment suit and the sun laid over it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
 

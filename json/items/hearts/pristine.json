@@ -22,7 +22,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♥</color> 2 of hearts"
+      "str": "<color_red>♥</color> 2 of hearts",
+      "str_pl": "<color_red>♥</color> 2s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's picture of a running person, and next to them, a small arrow pointing up and a plus sign.",
 
@@ -37,7 +38,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♥</color> 3 of hearts"
+      "str": "<color_red>♥</color> 3 of hearts",
+      "str_pl": "<color_red>♥</color> 3s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a mostly-charged battery laying horizontally, with \"zZz\" floating over one corner and an arrow pointing up in the opposite.",
 
@@ -52,7 +54,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♥</color> 4 of hearts"
+      "str": "<color_red>♥</color> 4 of hearts",
+      "str_pl": "<color_red>♥</color> 4s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a shield held by a strong, muscular arm.",
 
@@ -67,7 +70,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♥</color> 5 of hearts"
+      "str": "<color_red>♥</color> 5 of hearts",
+      "str_pl": "<color_red>♥</color> 5s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of an ancient muscle cuirass with a mace laid over it.",
 
@@ -82,7 +86,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♥</color> 6 of hearts"
+      "str": "<color_red>♥</color> 6 of hearts",
+      "str_pl": "<color_red>♥</color> 6s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a six-sided Star of Life, with an arrow pointing up in a corner next to it.",
 
@@ -97,7 +102,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♥</color> 7 of hearts"
+      "str": "<color_red>♥</color> 7 of hearts",
+      "str_pl": "<color_red>♥</color> 7s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a heavy counterweight seemingly growing roots.",
 
@@ -112,7 +118,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♥</color> 8 of hearts"
+      "str": "<color_red>♥</color> 8 of hearts",
+      "str_pl": "<color_red>♥</color> 8s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a feather bent slightly towards the ground.",
 
@@ -127,7 +134,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♥</color> 9 of hearts"
+      "str": "<color_red>♥</color> 9 of hearts",
+      "str_pl": "<color_red>♥</color> 9s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a heart with a large plus next to it.",
 
@@ -142,7 +150,8 @@
     "category": "cards",
 
     "name": {
-      "str": "<color_red>♥</color> 10 of hearts"
+      "str": "<color_red>♥</color> 10 of hearts",
+      "str_pl": "<color_red>♥</color> 10s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of a heavy-looking axe leaving a trail, seemingly moving rapidly.",
 
