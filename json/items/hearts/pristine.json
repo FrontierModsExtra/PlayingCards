@@ -7,7 +7,7 @@
 
     "name": {
       "str": "<color_red>♥</color> ace of hearts",
-      "str_pl": "<color_red>♥</color> aces of hearts"
+      "str_pl": "of <color_red>♥</color> aces of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suit or the capital A in the center of the face, there's picture of a closed rucksack, with a small arrow pointing up next to it.",
 
@@ -23,7 +23,7 @@
 
     "name": {
       "str": "<color_red>♥</color> 2 of hearts",
-      "str_pl": "<color_red>♥</color> 2s of hearts"
+      "str_pl": "of <color_red>♥</color> 2s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's picture of a running person, and next to them, a small arrow pointing up and a plus sign.",
 
@@ -39,7 +39,7 @@
 
     "name": {
       "str": "<color_red>♥</color> 3 of hearts",
-      "str_pl": "<color_red>♥</color> 3s of hearts"
+      "str_pl": "of <color_red>♥</color> 3s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a mostly-charged battery laying horizontally, with \"zZz\" floating over one corner and an arrow pointing up in the opposite.",
 
@@ -55,7 +55,7 @@
 
     "name": {
       "str": "<color_red>♥</color> 4 of hearts",
-      "str_pl": "<color_red>♥</color> 4s of hearts"
+      "str_pl": "of <color_red>♥</color> 4s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a shield held by a strong, muscular arm.",
 
@@ -71,7 +71,7 @@
 
     "name": {
       "str": "<color_red>♥</color> 5 of hearts",
-      "str_pl": "<color_red>♥</color> 5s of hearts"
+      "str_pl": "of <color_red>♥</color> 5s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of an ancient muscle cuirass with a mace laid over it.",
 
@@ -87,7 +87,7 @@
 
     "name": {
       "str": "<color_red>♥</color> 6 of hearts",
-      "str_pl": "<color_red>♥</color> 6s of hearts"
+      "str_pl": "of <color_red>♥</color> 6s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a six-sided Star of Life, with an arrow pointing up in a corner next to it.",
 
@@ -103,7 +103,7 @@
 
     "name": {
       "str": "<color_red>♥</color> 7 of hearts",
-      "str_pl": "<color_red>♥</color> 7s of hearts"
+      "str_pl": "of <color_red>♥</color> 7s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a heavy counterweight seemingly growing roots.",
 
@@ -119,7 +119,7 @@
 
     "name": {
       "str": "<color_red>♥</color> 8 of hearts",
-      "str_pl": "<color_red>♥</color> 8s of hearts"
+      "str_pl": "of <color_red>♥</color> 8s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a feather bent slightly towards the ground.",
 
@@ -135,7 +135,7 @@
 
     "name": {
       "str": "<color_red>♥</color> 9 of hearts",
-      "str_pl": "<color_red>♥</color> 9s of hearts"
+      "str_pl": "of <color_red>♥</color> 9s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a heart with a large plus next to it.",
 
@@ -151,7 +151,7 @@
 
     "name": {
       "str": "<color_red>♥</color> 10 of hearts",
-      "str_pl": "<color_red>♥</color> 10s of hearts"
+      "str_pl": "of <color_red>♥</color> 10s of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of a heavy-looking axe leaving a trail, seemingly moving rapidly.",
 
@@ -167,7 +167,7 @@
 
     "name": {
       "str": "<color_red>♥</color> jack of hearts",
-      "str_pl": "<color_red>♥</color> jacks of hearts"
+      "str_pl": "of <color_red>♥</color> jacks of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a shield repelling three thick lines away.",
 
@@ -183,7 +183,7 @@
 
     "name": {
       "str": "<color_red>♥</color> queen of hearts",
-      "str_pl": "<color_red>♥</color> queens of hearts"
+      "str_pl": "of <color_red>♥</color> queens of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a muscle cuirass with a biohazard symbol laid over it.",
 
@@ -199,7 +199,7 @@
 
     "name": {
       "str": "<color_red>♥</color> king of hearts",
-      "str_pl": "<color_red>♥</color> kings of hearts"
+      "str_pl": "of <color_red>♥</color> kings of hearts"
     },
     "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a strong, muscular arm flexing.",
 
