@@ -1,21 +1,5 @@
 [
   {
-    "id": "card_clubs_ace_worn",
-    "copy-from": "card_playing_enchanted_blue",
-    "type": "GENERIC",
-    "category": "cards",
-
-    "name": {
-      "str": "<color_blue>♣</color> ace of clubs (worn)",
-      "str_pl": "of <color_blue>♣</color> aces of clubs (worn)"
-    },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suit or the capital A in the center of the face, there's a pictogram of a head struck by a simplistic depiction of a lightning, with an arrow pointing down in a corner next to the scene.  This card is well-worn, slightly bent, with scrapes and small cuts.",
-
-    "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_PAIN_REMOVAL_MINOR" }]
-    }
-  },
-  {
     "id": "card_clubs_2_worn",
     "copy-from": "card_playing_enchanted_blue",
     "type": "GENERIC",
@@ -25,10 +9,10 @@
       "str": "<color_blue>♣</color> 2 of clubs (worn)",
       "str_pl": "of <color_blue>♣</color> 2s of clubs (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a pillow with \"zZz\" over it and two pluses next to it in a corner.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a head struck by a simplistic depiction of a lightning, with an arrow pointing down in a corner next to the scene.  <well_worn>",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EASE_OF_SLEEP_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_PAIN_REMOVAL_MINOR" }]
     }
   },
   {
@@ -41,9 +25,10 @@
       "str": "<color_blue>♣</color> 3 of clubs (worn)",
       "str_pl": "of <color_blue>♣</color> 3s of clubs (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a head with a large arrow pointing down laid over it, with a shield in a corner next to the scene.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a pillow with \"zZz\" over it and two pluses next to it in a corner.  <well_worn>",
+
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_SKILL_RUST_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EASE_OF_SLEEP_MINOR" }]
     }
   },
   {
@@ -56,10 +41,10 @@
       "str": "<color_blue>♣</color> 4 of clubs (worn)",
       "str_pl": "of <color_blue>♣</color> 4s of clubs (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a head with an open book laid over it, with a magnifying glass in a corner next to the scene.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a head with a large arrow pointing down laid over it, with a shield in a corner next to the scene.  <well_worn>",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_LEARNING_FOCUS_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_SKILL_RUST_MINOR" }]
     }
   },
   {
@@ -72,10 +57,10 @@
       "str": "<color_blue>♣</color> 5 of clubs (worn)",
       "str_pl": "of <color_blue>♣</color> 5s of clubs (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a head with an open book laid over it, with an arrow pointing up in a corner next to the scene.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a head with an open book laid over it, with a magnifying glass in a corner next to the scene.  <well_worn>",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_READING_EXP_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_LEARNING_FOCUS_MINOR" }]
     }
   },
   {
@@ -88,10 +73,10 @@
       "str": "<color_blue>♣</color> 6 of clubs (worn)",
       "str_pl": "of <color_blue>♣</color> 6s of clubs (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of the lower half of a head, with a focus on the lips; a fist and a feather framing the head from the sides.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a head with an open book laid over it, with an arrow pointing up in a corner next to the scene.  <well_worn>",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_CHARISMA_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_READING_EXP_MINOR" }]
     }
   },
   {
@@ -104,10 +89,10 @@
       "str": "<color_blue>♣</color> 7 of clubs (worn)",
       "str_pl": "of <color_blue>♣</color> 7s of clubs (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a muscle cuirass with a knife laid over it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of the lower half of a head, with a focus on the lips; a fist and a feather framing the head from the sides.  <well_worn>",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_CUT_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_CHARISMA_MINOR" }]
     }
   },
   {
@@ -120,10 +105,10 @@
       "str": "<color_blue>♣</color> 8 of clubs (worn)",
       "str_pl": "of <color_blue>♣</color> 8s of clubs (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a muscle cuirass with a large droplet laid over it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a muscle cuirass with a knife laid over it.  <well_worn>",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_ACID_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_CUT_MINOR" }]
     }
   },
   {
@@ -136,10 +121,10 @@
       "str": "<color_blue>♣</color> 9 of clubs (worn)",
       "str_pl": "of <color_blue>♣</color> 9s of clubs (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of the lower half of a head, with a focus on the lips; a handshake is below the chin.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a muscle cuirass with a large droplet laid over it.  <well_worn>",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_PERSUASION_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_ACID_MINOR" }]
     }
   },
   {
@@ -152,10 +137,10 @@
       "str": "<color_blue>♣</color> 10 of clubs (worn)",
       "str_pl": "of <color_blue>♣</color> 10s of clubs (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of three humans; the one on the left is holding an assault rifle; the one on the right is holding a knife and charging left; and the one in the middle facing the knife wielder, with a shield behind their back, from where the bullets are coming.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of the lower half of a head, with a focus on the lips; a handshake is below the chin.  <well_worn>",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_FRIENDLY_FIRE_MINOR" }]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_PERSUASION_MINOR" }]
     }
   },
   {
@@ -168,12 +153,10 @@
       "str": "<color_blue>♣</color> jack of clubs (worn)",
       "str_pl": "of <color_blue>♣</color> jacks of clubs (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a muscle cuirass with a simplified bolt of lightning laid over it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of three humans; the one on the left is holding an assault rifle; the one on the right is holding a knife and charging left; and the one in the middle facing the knife wielder, with a shield behind their back, from where the bullets are coming.  <well_worn>",
 
     "relic_data": {
-      "passive_effects": [
-        { "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_ELECTRIC_MINOR" }
-      ]
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_FRIENDLY_FIRE_MINOR" }]
     }
   },
   {
@@ -186,10 +169,12 @@
       "str": "<color_blue>♣</color> queen of clubs (worn)",
       "str_pl": "of <color_blue>♣</color> queens of clubs (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a heart with a shield next to it.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a muscle cuirass with a simplified bolt of lightning laid over it.  <well_worn>",
 
     "relic_data": {
-      "passive_effects": [{ "id": "CARD_ENCHANTMENT_HEALTH_MINOR" }]
+      "passive_effects": [
+        { "id": "CARD_ENCHANTMENT_EXTRA_ARMOR_ELECTRIC_MINOR" }
+      ]
     }
   },
   {
@@ -202,7 +187,23 @@
       "str": "<color_blue>♣</color> king of clubs (worn)",
       "str_pl": "of <color_blue>♣</color> kings of clubs (worn)"
     },
-    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a picture of a human brain.  This card is well-worn, slightly bent, with scrapes and small cuts.",
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suits in the center of the face, there's a pictogram of a heart with a shield next to it.  <well_worn>",
+
+    "relic_data": {
+      "passive_effects": [{ "id": "CARD_ENCHANTMENT_HEALTH_MINOR" }]
+    }
+  },
+  {
+    "id": "card_clubs_ace_worn",
+    "copy-from": "card_playing_enchanted_blue",
+    "type": "GENERIC",
+    "category": "cards",
+
+    "name": {
+      "str": "<color_blue>♣</color> ace of clubs (worn)",
+      "str_pl": "of <color_blue>♣</color> aces of clubs (worn)"
+    },
+    "description": "A white playing card with an elaborate pattern of white lines on the red back.  Instead of the suit or the capital A in the center of the face, there's a picture of a human brain.  <well_worn>",
 
     "relic_data": {
       "passive_effects": [{ "id": "CARD_ENCHANTMENT_INTELLIGENCE_MINOR" }]
